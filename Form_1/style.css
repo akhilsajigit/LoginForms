@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(253, 255, 253);
+  background-color: rgb(253, 253, 255);
 
 }
 .container{
@@ -17,6 +17,7 @@ img{
   border-radius: 2%;
 }
 
+
 .row{
   display: flex;
   justify-content: space-between;
@@ -30,7 +31,7 @@ img{
   height: 420px;
   margin-top: 80px;
   margin-left: 150px;
-  background-color: black;
+  background: linear-gradient(to bottom, #bcbaba 0%, #2b2120 100%);
   text-align: center;
   padding-top: 20px;
   border-radius: 2%;
